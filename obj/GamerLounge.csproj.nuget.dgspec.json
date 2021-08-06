@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tmhil\\Source\\Repos\\GamerLounge\\GamerLounge.csproj": {}
+    "C:\\GamerLounge\\GamerLounge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tmhil\\Source\\Repos\\GamerLounge\\GamerLounge.csproj": {
+    "C:\\GamerLounge\\GamerLounge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tmhil\\Source\\Repos\\GamerLounge\\GamerLounge.csproj",
+        "projectUniqueName": "C:\\GamerLounge\\GamerLounge.csproj",
         "projectName": "GamerLounge",
-        "projectPath": "C:\\Users\\tmhil\\Source\\Repos\\GamerLounge\\GamerLounge.csproj",
-        "packagesPath": "C:\\Users\\tmhil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tmhil\\Source\\Repos\\GamerLounge\\obj\\",
+        "projectPath": "C:\\GamerLounge\\GamerLounge.csproj",
+        "packagesPath": "C:\\Users\\Samuel.Marcus\\.nuget\\packages\\",
+        "outputPath": "C:\\GamerLounge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\tmhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samuel.Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
